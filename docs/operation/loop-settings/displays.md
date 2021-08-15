@@ -87,7 +87,7 @@ There are several charts that help you navigate your Loop actions.  Clicking on 
 ![Graph of Blood Glucose showing measured points and predicted dashed line](img/glucose_graph.jpg){width="400"}
 {align="center"}
 
-The glucose chart displays BG values in your preferred units (as defined in the [Health app](.././features/healthapp.md)). (If not, quit and restart Loop app on your phone.) The vertical scale of the chart is calculated on the fly by Loop to be as useful as possible while including the highest and lowest readings in the chart.
+The glucose chart displays BG values in your preferred units (as defined in the [Health app](../../features/healthapp.md)). (If not, quit and restart Loop app on your phone.) The vertical scale of the chart is calculated on the fly by Loop to be as useful as possible while including the highest and lowest readings in the chart.
 
 The horizontal axis is set to go forward from the current time until your DIA (insulin duration) forward (so you can see what Loop thinks BG will be eventually). It then goes back in time as far as it can, based upon the width in pixels of your screen. Note, if you turn your device to landscape mode you will have more screen real estate and thus will be able to see further back in time.
 
